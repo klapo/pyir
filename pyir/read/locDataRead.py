@@ -1,13 +1,6 @@
 import utm
 
 
-'''
-This package contains functions for manipulating the IR flight thermography.
-Currently (01/03/2017) the function is effectively a clone of the functionality
-from the MATLAB scripts by Chris C.
-'''
-
-
 def readIMU(fname):
     # Column 1 is time
     # Columns 12 and 13 are lat and lon
