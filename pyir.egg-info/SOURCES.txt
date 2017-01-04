@@ -1,0 +1,6 @@
+setup.py
+pyir/__init__.py
+pyir.egg-info/PKG-INFO
+pyir.egg-info/SOURCES.txt
+pyir.egg-info/dependency_links.txt
+pyir.egg-info/top_level.txt
