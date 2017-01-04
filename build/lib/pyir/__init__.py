@@ -1,4 +1,4 @@
-from .read.locDataRead import readIMU
+from pyir.read.locDataRead import readIMU
 
 # Things I've tried that don't work
 #
